@@ -4,6 +4,11 @@ import warnings
 import re
 
 def init(data):
+    """ 
+       input_file aka data must have: 
+        * pattern in first line
+        * regex matches strings in other line
+    """
     pattern = ""
     strings = []
     isPattern = True
