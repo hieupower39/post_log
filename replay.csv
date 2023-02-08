@@ -1,0 +1,63 @@
+req,"GET / HTTP/1.1
+Host: 10.0.0.4:8000
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1"
+res,"HTTP/1.0 200 OK
+Server: SimpleHTTP/0.6 Python/3.10.9
+Date: Wed, 08 Feb 2023 20:19:44 GMT
+Content-type: text/html; charset=utf-8
+Content-Length: 1887
+
+<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01//EN"" ""http://www.w3.org/TR/html4/strict.dtd"">
+<html>
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+<title>Directory listing for /</title>
+</head>
+<body>
+<h1>Directory listing for /</h1>
+<hr>
+<ul>
+<li><a href="".bash_logout"">.bash_logout</a></li>
+<li><a href="".bashrc"">.bashrc</a></li>
+<li><a href="".bashrc.original"">.bashrc.original</a></li>
+<li><a href="".cache/"">.cache/</a></li>
+<li><a href="".config/"">.config/</a></li>
+<li><a href="".dmrc"">.dmrc</a></li>
+<li><a href="".face"">.face</a></li>
+<li><a href="".face.icon"">.face.icon@</a></li>
+<li><a href="".gnupg/"">.gnupg/</a></li>
+<li><a href="".ICEauthority"">.ICEauthority</a></li>
+<li><a href="".ipython/"">.ipython/</a></li>
+<li><a href="".java/"">.java/</a></li>
+<li><a href="".local/"">.local/</a></li>
+<li><a href="".mozilla/"">.mozilla/</a></li>
+<li><a href="".pki/"">.pki/</a></li>
+<li><a href="".profile"">.profile</a></li>
+<li><a href="".scapy_history"">.scapy_history</a></li>
+<li><a href="".sudo_as_admin_successful"">.sudo_as_admin_successful</a></li>
+<li><a href="".vscode-oss/"">.vscode-oss/</a></li>
+<li><a href="".Xauthority"">.Xauthority</a></li>
+<li><a href="".xsession-errors"">.xsession-errors</a></li>
+<li><a href="".xsession-errors.old"">.xsession-errors.old</a></li>
+<li><a href="".zsh_history"">.zsh_history</a></li>
+<li><a href="".zshrc"">.zshrc</a></li>
+<li><a href=""abc.pcap"">abc.pcap</a></li>
+<li><a href=""awesome-tool-content/"">awesome-tool-content/</a></li>
+<li><a href=""Desktop/"">Desktop/</a></li>
+<li><a href=""Documents/"">Documents/</a></li>
+<li><a href=""Downloads/"">Downloads/</a></li>
+<li><a href=""Music/"">Music/</a></li>
+<li><a href=""Pictures/"">Pictures/</a></li>
+<li><a href=""Public/"">Public/</a></li>
+<li><a href=""rtl8188eus/"">rtl8188eus/</a></li>
+<li><a href=""Templates/"">Templates/</a></li>
+<li><a href=""Videos/"">Videos/</a></li>
+</ul>
+<hr>
+</body>
+</html>"
